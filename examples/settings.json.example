@@ -1,0 +1,10 @@
+{
+  "base_url": "https://<UNIFI_LOCAL_ADDRESS>",
+  "site": "<UNIFI_SITE>",
+  "wlan_id": "<TARGET_WLAN_ID>",
+  "credentials_file": "/config/unifi_api/credentials.json",
+  "pinned_public_key_file": "/config/unifi_api/unifi-public-key-pin",
+  "backup_directory": "/config/unifi_api/backups",
+  "write_marker_file": "/config/unifi_api/write-enabled"
+}
+
